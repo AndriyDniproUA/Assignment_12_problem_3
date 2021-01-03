@@ -9,8 +9,5 @@ public class Main {
 	ExpenseCalculator calculator = new ExpenseCalculator(sc);
 
 	calculator.run();
-
-
-
     }
 }
